@@ -1,2 +1,2 @@
 # test2
-this project for web application
+this project is for web application
